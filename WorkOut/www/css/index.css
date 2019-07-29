@@ -50,12 +50,12 @@ body {
     margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
                                    /* offset horizontal: half of text area width */
 }
-#comand {
+#comandi {
     position: absolute;
     top:75%;
     left:50%;
 }
-#carg {
+#carico {
     /*isplay: inline;
     float: left;*/
     background-color: aqua;
@@ -64,7 +64,7 @@ body {
     padding: 2Ppx;
     
 }
-#uolte {
+#ripetizioni {
     /*display: inline;
     float :right;*/
     background-color: deepskyblue;
